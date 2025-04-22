@@ -7,6 +7,5 @@ public class Main {
 
         System.out.println("Jméno prvního prodejce je: " + seller1.getName() + " a jeho adresa je: " + seller1.getAddress() + ".");
         System.out.println("Jméno druhého prodejce je: " + seller2.getName() + " a jeho adresa je: " + seller2.getAddress() + ".");
-
     }
 }
